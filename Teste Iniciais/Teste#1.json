@@ -1,1 +1,0 @@
-[{"id":"74451f01.bfdcc","type":"chatbot-ask","z":"da8df893.782848","name":"","buttons":[{"type":"keyboardButton","label":"Objeto #1"},{"type":"keyboardButton","label":"Objeto #2"},{"type":"keyboardButton","label":"Objeto #3"},{"type":"keyboardButton","label":"Objeto #4"}],"message":"{{firstName}} o que você deseja ligar/desligar?","x":270,"y":220,"wires":[["542e5d2f.2bb3e4"]]}]
