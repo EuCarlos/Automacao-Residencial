@@ -12,7 +12,7 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 
 
 <h4>Testes Iniciais</h4>
-<p> Os links levarão para videos(no youtube) que demostro cada um dos testes iniciais </>
+<p> Os links levarão para videos(no youtube) que demostro cada um dos testes iniciais: </>
 <ul>
 	<li><a href="https://youtu.be/ggnhirQ0ctI">Teste #1</a></li>
 </ul>
