@@ -9,8 +9,17 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 
 <p><b> DESCRIÇÃO DO PROJETO: </b> </p>
 <p> O Objetivo do Projeto é conseguir acionar os relés em uma protoboard apartir de comandos feitos no Chatbot criado no Telegram, para isso é criado os nós do Arduino, IBM Watson e ChatBot apartir do NodeRED.</p>
+<h2> O PROJETO:</h2>
 
-Primeiro passo que foi feito é ter criado um ChatBot no telegram, apartir do `@BotFather`, é preciso guardar o token informado para acessar o HTTP API.
+* Primeiro passo que foi feito é ter criado um ChatBot no telegram, apartir do `@BotFather`, é preciso guardar o token informado para acessar o HTTP API.
+* Agora temos que instalar dois nós a maquina pelo prompt de comando:
+`node-red-contrib-chatbot`
+`node-red-node-arduino`
+* Os nós foram montados conforme mostra a imagem abaixo:
+
+<img src="https://raw.githubusercontent.com/EuCarlos/Automacao-Residencial/master/Imagens/nodered-imagem-projeto.png" />
+
+* O projeto está armazendo em `flows (1).json` aqui neste repositorio. Caso queira testar é só importa no seu projeto no NodeRED.
 
 ## LICENÇA
 
