@@ -21,6 +21,9 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 
 * O projeto está armazendo em `flows (1).json` aqui neste repositorio. Caso queira testar é só importa no seu projeto no NodeRED.
 * A Desmotração de como ficou o ChatBot está em `Demostracao-ChatBot.mp4` nas imagens ou neste [link](https://youtu.be/l7tdQdVSZfQ) do youtube.
+* O [Arduino IoT Cloud](https://create.arduino.cc/iot/) deve ser configurado para interagir com o Node-RED:
+  * Obtenha o Client ID e o Client Secret na página da [paginas de itens](https://create.arduino.cc/iot/things) clicando em Add API
+  * Configure os nós do Arduino pelo Node-RED > Definir uma nova conexão > selecione 'Add new arduino-connection...' no campo 'Connection' > Insira um nome de conexão, Client ID e Client Secret > Clique em Add
 
 ## LICENÇA
 
