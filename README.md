@@ -20,6 +20,7 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 <img src="https://raw.githubusercontent.com/EuCarlos/Automacao-Residencial/master/Imagens/nodered-imagem-projeto.png" />
 
 * O projeto está armazendo em `flows (1).json` aqui neste repositorio. Caso queira testar é só importa no seu projeto no NodeRED.
+* A Desmotração de como ficou o ChatBot está em `Demostracao-ChatBot.mp4` nas imagens ou neste [link](https://youtu.be/l7tdQdVSZfQ) do youtube.
 
 ## LICENÇA
 
