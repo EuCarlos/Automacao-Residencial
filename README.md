@@ -26,7 +26,7 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 ## IBM Cloud
 ![IBM Cloud](https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png)
 Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado uma Aplicação `Node-RED Starter`. Depois de criado a aplicação é só implementar ou criar o projeto diretamente no bluemix.
-## Vantagens
+#### Vantagens de criar uma aplicação no IBM Cloud
 * Mais Flexivel;
 * Opções de Controle;
 * Economia de Ferramentas;
