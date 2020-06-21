@@ -32,7 +32,7 @@ Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado
 * Economia de Ferramentas;
 * Trabalho Otimizado;
 * Segurança de Dados;
-* e Velocidades e Produtividade.
+* Velocidades e Produtividade.
 
 ## LICENÇA
 
