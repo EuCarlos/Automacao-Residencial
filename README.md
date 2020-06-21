@@ -24,7 +24,7 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 * O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.
 
 ## IBM Cloud
-<img src="https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png" />
+![IBM Cloud](https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png)
 Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado uma Aplicação `Node-RED Starter`. Depois de criado a aplicação é só implementar ou criar o projeto diretamente no bluemix.
 ## Vantagens
 * Mais Flexivel;
@@ -32,7 +32,7 @@ Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado
 * Economia de Ferramentas;
 * Trabalho Otimizado;
 * Segurança de Dados;
-
+* e Velocidades e Produtividade.
 
 ## LICENÇA
 
