@@ -23,7 +23,16 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 * A Desmotração de como ficou o ChatBot está em `Demostracao-ChatBot.mp4` nas imagens ou neste [link](https://youtu.be/l7tdQdVSZfQ) do youtube.
 * O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.
 
-**OBS:** O Intuito do Projeto era fazer o armazenamento de dados na nuvem através do IBM Watson mas por conta da Época de Pandemia do Covid-19 que está/esteve ocorrendo em 2020 o projeto teve que ser finalizado sem esta devida parte. Estou deixando um [link de um post](https://www.curtocircuito.com.br/blog/armazenamento-de-dados-na-nuvem-esp32-node-red) onde fala sobre o assunto.
+## IBM Cloud
+<img src="https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png" />
+Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado uma Aplicação `Node-RED Starter`. Depois de criado a aplicação é só implementar ou criar o projeto diretamente no bluemix.
+## Vantagens
+* Mais Flexivel;
+* Opções de Controle;
+* Economia de Ferramentas;
+* Trabalho Otimizado;
+* Segurança de Dados;
+
 
 ## LICENÇA
 
