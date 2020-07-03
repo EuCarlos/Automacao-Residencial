@@ -39,6 +39,8 @@ Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado
 </p>
 
 O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.
+* Com a IDE aberta, siga o caminho: `Arquivos > Exemplos > Firmata > StandardFirmata`
+* Se certifique que a placa e a porta estão corretamente selecionadas, para isso clique em: `Ferramentas > Placa e depois em Ferramentas > Porta.`
 
 ## LICENÇA
 
