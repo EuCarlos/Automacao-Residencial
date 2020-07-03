@@ -21,7 +21,6 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 
 * O projeto está armazendo em `flows (1).json` aqui neste repositorio. Caso queira testar é só importa no seu projeto no NodeRED.
 * A Desmotração de como ficou o ChatBot está em `Demostracao-ChatBot.mp4` nas imagens ou neste [link](https://youtu.be/l7tdQdVSZfQ) do youtube.
-* O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.
 
 ## IBM Cloud
 ![IBM Cloud](https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png)
@@ -33,6 +32,13 @@ Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado
 * Trabalho Otimizado;
 * Segurança de Dados;
 * Velocidades e Produtividade.
+
+## ARDUINO
+<p align="center">
+  <img width="150" src="https://eaceto.dev/wp-content/uploads/2020/03/1484328266stickers_logo_text.png">
+</p>
+
+O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.
 
 ## LICENÇA
 
