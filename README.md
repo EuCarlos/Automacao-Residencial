@@ -25,6 +25,7 @@ ChatBot Telegram | NodeRED | IBM Watson | Arduino
 ## IBM Cloud
 ![IBM Cloud](https://miro.medium.com/fit/c/1838/551/1*g4OPeVwVbt0HTQo2dkV4ew.png)
 Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado uma Aplicação `Node-RED Starter`. Depois de criado a aplicação é só implementar ou criar o projeto diretamente no bluemix.
+
 #### Vantagens de criar uma aplicação no IBM Cloud
 * Mais Flexivel;
 * Opções de Controle;
@@ -52,6 +53,10 @@ O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação pri
 * Depois que o nó já estiver instalado e configurados, é só acessar `http://localhost:1880/ui/` ou `http://<NomeDaSuaAplicação>.mybluemix.net/ui/`(caso sua aplicação estiver no Bluemix da IBM)
 * Em seguida é só conectar os nós do dashboard ao nós do Arduino. A configuração para os nós do Arduino são as mesma aplicada ao projeto original.
 * Depois que tudo estiver pronto a sua interface pode está semelhante a esta:
+
+<p align="center">
+  <img width="700" src="https://github.com/EuCarlos/Automacao-Residencial/blob/master/Imagens/TelaUIDashboard.PNG?raw=true">
+</p>
 
 ## LICENÇA
 
