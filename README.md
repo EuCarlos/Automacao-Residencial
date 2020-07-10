@@ -47,6 +47,12 @@ O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação pri
   <img width="700" src="https://github.com/EuCarlos/Automacao-Residencial/blob/master/Imagens/Circuito.png?raw=true">
 </p>
 
+## ALTERNATIVA COM DASHBOARD
+É uma forma mais simples e mais rapido do projeto, para essa alternativa instalamos o nó `node-red-dashboard`. Com esse nó podemos criar uma interface, isso anula ChatBot do Telegram pois se torna desnecessario. 
+* Depois que o nó já estiver instalado e configurados, é só acessar `http://localhost:1880/ui/` ou `http://<NomeDaSuaAplicação>.mybluemix.net/ui/`(caso sua aplicação estiver no Bluemix da IBM)
+* Em seguida é só conectar os nós do dashboard ao nós do Arduino. A configuração para os nós do Arduino são as mesma aplicada ao projeto original.
+* Depois que tudo estiver pronto a sua interface pode está semelhante a esta:
+
 ## LICENÇA
 
 MIT License
