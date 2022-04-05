@@ -1,4 +1,5 @@
 # Automação Residencial
+_For the English version of this README, click [here](/locales/en/README.md)._
 Projeto de Automação Residencial com Node-RED, JavaScript, Arduíno e Raspberry Pi 2a
 <p><b>Atenção:</b> Isso é um projeto academico que pode contém varios erros, e está sendo corrigido e atualizado aos poucos.</p>
 <p><em><b>TECNOLOGICAS UTILIZADAS NO PROJETO</b></em></p>
@@ -57,27 +58,3 @@ O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação pri
 <p align="center">
   <img width="700" src="https://github.com/EuCarlos/Automacao-Residencial/blob/master/Imagens/TelaUIDashboard.PNG?raw=true">
 </p>
-
-## LICENÇA
-
-MIT License
-
-Copyright (c) 2020 Carlos Alves
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
