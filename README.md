@@ -1,5 +1,6 @@
 # Automação Residencial
 _For the English version of this README, click [here](/locales/en/README.md)._
+
 Projeto de Automação Residencial com Node-RED, JavaScript, Arduíno e Raspberry Pi 2a
 <p><b>Atenção:</b> Isso é um projeto academico que pode contém varios erros, e está sendo corrigido e atualizado aos poucos.</p>
 <p><em><b>TECNOLOGICAS UTILIZADAS NO PROJETO</b></em></p>
@@ -37,7 +38,7 @@ Todos os dados do projeto estão armazendos no IBM Bluemix/IBM Cloud. Foi criado
 
 ## ARDUINO
 <p align="center">
-  <img width="150" src="https://eaceto.dev/wp-content/uploads/2020/03/1484328266stickers_logo_text.png">
+  <img width="150" src="Imagens/motherboard_arduino.png" width="100">
 </p>
 
 O firmware Firmata deve ser carregado no Arduino. Consulte a [documentação principal](https://nodered.org/docs/faq/interacting-with-arduino) para obter detalhes e exemplos de como usar este nó.

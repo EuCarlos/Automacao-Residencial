@@ -37,7 +37,7 @@ All project data is stored in IBM Bluemix/IBM Cloud. A `Node-RED Starter` Applic
 
 ## ARDUINO
 <p align="center">
-  <img width="150" src="https://eaceto.dev/wp-content/uploads/2020/03/1484328266stickers_logo_text.png">
+  <img width="150" src="../../Imagens/motherboard_arduino.png" width="100">
 </p>
 
 Firmata firmware must be loaded on Arduino. See the [main documentation](https://nodered.org/docs/faq/interacting-with-arduino) for details and examples of how to use this node.
